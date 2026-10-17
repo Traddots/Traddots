@@ -1,5 +1,14 @@
 ## Hi there 👋
 
+I am currently a first year student at the University Of Lancashire studying mechanical engineering.
+
+In my degree I'm currently learning to use CAD software to design and manufacture parts, engineering analysis maths skills for future application, and fundamentals of engineering science. I am also learning in my own time to code with C++ and learn to speak mandarin.
+
+I have an interest in robotics and AI.
+
+I am looking to create small coding projects which I can use to expand my skill set for future personal projects, and hopefully gain the skills to tackle larger coding projects eventually.
+
+
 <!--
 **Traddots/Traddots** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
