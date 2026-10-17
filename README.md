@@ -2,7 +2,7 @@
 
 I am currently a first year student at the University Of Lancashire studying mechanical engineering.
 
-In my degree I'm currently learning to use CAD software to design and manufacture parts, engineering analysis maths skills for future application, and fundamentals of engineering science. I am also learning in my own time to code with C++ and learn to speak mandarin.
+In my degree I'm currently learning to use CAD software to design and manufacture parts, engineering analysis maths skills for future application, and fundamentals of engineering science. I am also learning in my own time to code with C++ and learning to speak mandarin.
 
 I have an interest in robotics and AI.
 
